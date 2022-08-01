@@ -9,18 +9,28 @@
         </a>
         
         <!-- Portfolio item 02 -->
-        <a href="#" class="portfolio__item">
+        <a href="project02" class="portfolio__item">
             <img src="../src/assets/imgs/02.png" alt="" class="portfolio__img">
         </a>
         
         <!-- Portfolio item 03 -->
-        <a href="#" class="portfolio__item">
+        <a href="project03" class="portfolio__item">
             <img src="../src/assets/imgs/03.png" alt="" class="portfolio__img">
         </a>
         
         <!-- Portfolio item 04 -->
-        <a href="#" class="portfolio__item">
+        <a href="project04" class="portfolio__item">
             <img src="../src/assets/imgs/04.png" alt="" class="portfolio__img">
+        </a>
+
+        <!-- Portfolio item 05 -->
+        <a href="project05" class="portfolio__item">
+            <img src="../src/assets/imgs/05.png" alt="" class="portfolio__img">
+        </a>
+
+        <!-- Portfolio item 06 -->
+        <a href="project06" class="portfolio__item">
+            <img src="../src/assets/imgs/06.png" alt="" class="portfolio__img">
         </a>
     </div>
 </section>
