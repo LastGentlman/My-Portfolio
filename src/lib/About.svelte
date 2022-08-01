@@ -10,7 +10,7 @@
     </div>
     
     <!-- TODO: agregar foto de mi leyendole a la muchacha -->
-    <img src="../src/assets/photo.jpeg" alt="nice looking engineer">
+    <img src="../src/assets/imgs/photo.jpeg" alt="nice looking engineer">
 </section>
 
 <style>

@@ -3,26 +3,24 @@
     <p class="section__subtitle">Selection of Projects</p>
     
     <div class="portfolio">
-
-        <!-- TODO: agregar imagenes y links a proyectos -->
         <!-- Portfolio item 01 -->
-        <a href="#" class="portfolio__item">
-            <img src="../src/assets/Rectangle3.png" alt="" class="portfolio__img">
+        <a href="project01" class="portfolio__item">
+            <img src="../src/assets/imgs/01.png" alt="" class="portfolio__img">
         </a>
         
         <!-- Portfolio item 02 -->
         <a href="#" class="portfolio__item">
-            <img src="../src/assets/Screenshot1.png" alt="" class="portfolio__img">
+            <img src="../src/assets/imgs/02.png" alt="" class="portfolio__img">
         </a>
         
         <!-- Portfolio item 03 -->
         <a href="#" class="portfolio__item">
-            <img src="../src/assets/Screenshot2.png" alt="" class="portfolio__img">
+            <img src="../src/assets/imgs/03.png" alt="" class="portfolio__img">
         </a>
         
-        <!-- Portfolio item 03 -->
+        <!-- Portfolio item 04 -->
         <a href="#" class="portfolio__item">
-            <img src="../src/assets/Screenshot3.png" alt="" class="portfolio__img">
+            <img src="../src/assets/imgs/04.png" alt="" class="portfolio__img">
         </a>
     </div>
 </section>

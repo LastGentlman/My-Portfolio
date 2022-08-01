@@ -17,7 +17,7 @@
       navToggle.style.position = "fixed"
       hamBefore.style.transform = "rotate(135deg) translate(6px)"
       hamBefore.style.marginLeft = "16px"
-      hamBefore.style.marginTop = "2px"
+      hamBefore.style.marginTop = "3px"
       hamAfter.style.opacity = "0";
       hamburger.style.backgroundColor = light
       hamBefore.style.backgroundColor = light
@@ -50,22 +50,27 @@
   <nav bind:this={nav}>
     <ul class="nav__list">
         <li class="nav__li">
-          <a on:click={toggle} href="#home" class="nav__link">
+          <a on:click={toggle} href="/" class="nav__link">
             Home
           </a>
         </li>
         <li class="nav__li">
-          <a on:click={toggle} href="#services" class="nav__link">
+          <a on:click={toggle} href="/#services" class="nav__link">
             My Services
           </a>
         </li>
         <li class="nav__li">
-          <a on:click={toggle} href="#about" class="nav__link">
+          <a on:click={toggle} href="/#about" class="nav__link">
             About me
           </a>
         </li>
         <li class="nav__li">
-          <a on:click={toggle} href="#projects" class="nav__link">
+          <a on:click={toggle} href="https://ingroy.blogspot.com" target="_blank" class="nav__link">
+            My Blog
+          </a>
+        </li>
+        <li class="nav__li">
+          <a on:click={toggle} href="/#projects" class="nav__link">
             My Projects
           </a>
         </li>

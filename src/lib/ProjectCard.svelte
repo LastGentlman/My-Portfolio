@@ -1,24 +1,50 @@
+<script>
+    export let title = "The Title";
+    export let titleBold = "of My Project";
+    export let subtitle = "Subtitle of project";
+    export let pic = "../src/assets/imgs/01.png";
+    export let p1 = "First Paragraph";
+    export let picBody = "../src/assets/imgs/01-01.jpg"
+    export let p2 = "Second Paragraph";
+    export let p3 = "Third Paragraph";
+</script>
+
 <section class="intro" id="home">
     <h1 class="section__title section__title--intro">
-        Hi, I'm <strong>Rodrigo F.</strong>
+        {title} <strong>{titleBold}</strong>
     </h1>
-    <p class="section__subtitle section__subtitle--intro">SOFTWARE ENGINEER</p>
-    <img src="../src/assets/imgs/photo.jpeg" alt="nice looking dude" />
+    <p class="section__subtitle section__subtitle--intro">{subtitle}</p>
+    <img class="pic" src={pic} alt="" />
 </section>
 
-<style>
+<main>
+    <p>{p1}</p>
+    
+    <img src={picBody} alt="" />
+    
+    <p>{p2}</p>
+    
+    <p>{p3}</p>
+</main>
+
+<style> 
     .intro {
         position: relative;
     }
-
+    
     .section__subtitle--intro {
         display: inline-block;
     }
-
-    img {
+    
+    .pic {
         box-shadow: var(--shadow);
         width: 249px;
         height: 249px;
+    }
+
+    img {
+        display: block;
+        max-width: 100%;
     }
 
     @media (min-width:600px) {
@@ -33,7 +59,7 @@
             margin: 0 auto;
         }
 
-        img {
+        .pic {
             grid-area: img;
             min-width: 250px;
             position: relative;
@@ -51,4 +77,20 @@
             width: calc(100% + 1.5em)
         }
     }
+
+    main {
+        padding: 0 2em 2em;
+        max-width: 1000px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        gap: 0.75em;
+    }
+
+    main p {
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
 </style>
