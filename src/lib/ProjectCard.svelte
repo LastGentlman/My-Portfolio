@@ -40,11 +40,7 @@
         box-shadow: var(--shadow);
         width: 249px;
         height: 249px;
-    }
-
-    img {
-        display: block;
-        max-width: 100%;
+        object-fit: fill;
     }
 
     @media (min-width:600px) {

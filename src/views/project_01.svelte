@@ -6,9 +6,9 @@
         title: 'My',
         titleBold: 'Weather App',
         subtitle: 'Weather Aplication',
-        pic: '../' ,
+        pic: '../src/assets/imgs/weatherPic.png' ,
         p1: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste rem porro ab hic id consequuntur sequi deserunt repudiandae ducimus, mollitia doloribus harum est tenetur similique numquam culpa ipsum! Sit, officiis!',
-        // picBody: '../' ,
+        picBody: '../src/assets/imgs/weather.png' ,
         p2: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi corporis optio eligendi harum, deleniti eveniet sit nesciunt impedit distinctio facilis necessitatibus vero deserunt dolores, id illum quos, quibusdam ipsa consectetur.',
         p3: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe tempora quidem harum nulla voluptates quae iusto. Iure ipsam, nesciunt omnis, recusandae, est obcaecati tempore ex aperiam et voluptatibus vitae. Earum!',
     }
