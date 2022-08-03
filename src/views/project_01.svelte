@@ -3,10 +3,10 @@
     import ProjectCard from '../lib/ProjectCard.svelte'
 
     let props = {
-        title: 'My title',
-        titleBold: 'of my Project',
-        subtitle: 'Short Subtitle',
-        // pic: '../' ,
+        title: 'My',
+        titleBold: 'Weather App',
+        subtitle: 'Weather Aplication',
+        pic: '../' ,
         p1: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste rem porro ab hic id consequuntur sequi deserunt repudiandae ducimus, mollitia doloribus harum est tenetur similique numquam culpa ipsum! Sit, officiis!',
         // picBody: '../' ,
         p2: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi corporis optio eligendi harum, deleniti eveniet sit nesciunt impedit distinctio facilis necessitatibus vero deserunt dolores, id illum quos, quibusdam ipsa consectetur.',
