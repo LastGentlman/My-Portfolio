@@ -1,6 +1,6 @@
 <section class="intro" id="home">
     <h1 class="section__title section__title--intro">
-        Hi, I'm <strong>Rodrigo F.</strong>
+        Hi, I'm <strong>My Name</strong>
     </h1>
     <p class="section__subtitle section__subtitle--intro">SOFTWARE ENGINEER</p>
     <img src="../src/assets/imgs/photo.jpeg" alt="nice looking dude" />
