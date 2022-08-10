@@ -7,10 +7,13 @@
         titleBold: 'Weather App',
         subtitle: 'Weather Aplication',
         pic: '../src/assets/imgs/weatherPic.png' ,
-        p1: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste rem porro ab hic id consequuntur sequi deserunt repudiandae ducimus, mollitia doloribus harum est tenetur similique numquam culpa ipsum! Sit, officiis!',
+        p1: 'Project created with ReactJS I use the <a href="http://weatherapi.com">weatherapi</a> to use geolocaltion with google maps, with Micro-Front Ends and Behavior Driven Development Methodology',
         picBody: '../src/assets/imgs/weather.png' ,
-        p2: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi corporis optio eligendi harum, deleniti eveniet sit nesciunt impedit distinctio facilis necessitatibus vero deserunt dolores, id illum quos, quibusdam ipsa consectetur.',
-        p3: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe tempora quidem harum nulla voluptates quae iusto. Iure ipsam, nesciunt omnis, recusandae, est obcaecati tempore ex aperiam et voluptatibus vitae. Earum!',
+        p2: `With this project, I Learned About: <br/>
+            &emsp;-The creation and implementation of CSS Loading <br/>
+            &emsp;-Using Geolocation with google maps <br/>
+            &emsp;-API data manipulation`,
+        p3: 'You are Wellcome to see the <a href="http://https://myweatherapp.up.railway.app/">Live Demo</a> and <a href="http://https://github.com/LastGentlman/My-Weather-App">The GitHub Repo</a> of this project',
     }
 </script>
 

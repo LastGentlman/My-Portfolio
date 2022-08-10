@@ -18,13 +18,13 @@
 </section>
 
 <main>
-    <p>{p1}</p>
+    <p>{@html p1}</p>
     
     <img src={picBody} alt="" />
     
-    <p>{p2}</p>
+    <p>{@html p2}</p>
     
-    <p>{p3}</p>
+    <p>{@html p3}</p>
 </main>
 
 <style> 
