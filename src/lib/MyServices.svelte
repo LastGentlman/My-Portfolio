@@ -53,6 +53,29 @@
         margin-bottom: 3em;
     }
 
+    .btn {
+        display: inline-block;
+        padding: .5em 2.5em;
+        background: var(--clr-label);
+        color: var(--clr-dark);
+        text-decoration: none;
+        cursor: pointer;
+        font-size: .8rem;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: var(--fw-bold);
+        transition: transform 200ms ease-in-out;
+        border-radius: 3px;
+    }
+
+    .btn:hover {
+        transform: scale(1.1);
+    }
+
+    .btn:active {
+      color: var(--clr-light);
+    }
+
     @media (min-width:768px) {
         .services {
             display: flex;

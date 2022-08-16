@@ -4,8 +4,8 @@
 
     let props = {
         title: 'My',
-        titleBold: 'Recipes',
-        subtitle: 'Web app to look for recipes',
+        titleBold: 'Recipes React App',
+        subtitle: 'Web App to look for healty recipes',
         pic: '../src/assets/imgs/06.png' ,
         p1: 'Full-Stack Web App',
         // picBody: '../' ,

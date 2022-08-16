@@ -5,32 +5,32 @@
     <div class="portfolio">
         <!-- Portfolio item 01 -->
         <a href="project01" target="_blank" class="portfolio__item">
-            <img src="../src/assets/imgs/weatherPic.png" alt="" class="portfolio__img">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/main/src/assets/imgs/weatherPic.png" alt="" class="portfolio__img">
         </a>
         
         <!-- Portfolio item 02 -->
         <a href="project02" target="_blank" class="portfolio__item">
-            <img src="../src/assets/imgs/02.png" alt="" class="portfolio__img">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
         </a>
         
         <!-- Portfolio item 03 -->
         <a href="project03" target="_blank" class="portfolio__item">
-            <img src="../src/assets/imgs/03.png" alt="" class="portfolio__img">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
         </a>
         
         <!-- Portfolio item 04 -->
         <a href="project04" target="_blank" class="portfolio__item">
-            <img src="../src/assets/imgs/04.png" alt="" class="portfolio__img">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
         </a>
 
         <!-- Portfolio item 05 -->
         <a href="project05" target="_blank" class="portfolio__item">
-            <img src="../src/assets/imgs/05.png" alt="" class="portfolio__img">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
         </a>
 
         <!-- Portfolio item 06 -->
         <a href="project06" target="_blank" class="portfolio__item">
-            <img src="../src/assets/imgs/06.png" alt="" class="portfolio__img">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
         </a>
     </div>
 </section>

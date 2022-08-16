@@ -5,3 +5,9 @@ RewriteCond %{HTTP:X-Forwarded-Proto} !https
 RewriteCond %{HTTPS} off
 RewriteCond %{HTTP:CF-Visitor} !{"scheme":"https"}
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Forcing the ‘www’ subdomain
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST}  !^www\.ingroy\.com$ [NC]
+RewriteRule ^(.*) http://www.ingroy.com/$1 [L,R]

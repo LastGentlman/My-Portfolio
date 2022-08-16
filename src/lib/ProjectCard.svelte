@@ -2,9 +2,9 @@
     export let title = "The Title";
     export let titleBold = "of My Project";
     export let subtitle = "Subtitle of project";
-    export let pic = "../src/assets/imgs/01.png";
+    export let pic = "https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png";
     export let p1 = "First Paragraph";
-    export let picBody = "../src/assets/imgs/01-01.jpg"
+    export let picBody = "https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01-01.jpg"
     export let p2 = "Second Paragraph";
     export let p3 = "Third Paragraph";
 </script>

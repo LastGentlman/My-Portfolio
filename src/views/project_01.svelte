@@ -6,9 +6,9 @@
         title: 'My',
         titleBold: 'Weather App',
         subtitle: 'Weather Aplication',
-        pic: '../src/assets/imgs/weatherPic.png' ,
+        pic: 'https://raw.githubusercontent.com/LastGentlman/My-Portfolio/main/src/assets/imgs/weatherPic.png' ,
         p1: 'Project created with ReactJS I use the <a href="http://weatherapi.com">weatherapi</a> to use geolocaltion with google maps, with Micro-Front Ends and Behavior Driven Development Methodology',
-        picBody: '../src/assets/imgs/weather.png' ,
+        picBody: 'https://raw.githubusercontent.com/LastGentlman/My-Portfolio/main/src/assets/imgs/weather.png' ,
         p2: `With this project, I Learned About: <br/>
             &emsp;-The creation and implementation of CSS Loading <br/>
             &emsp;-Using Geolocation with google maps <br/>

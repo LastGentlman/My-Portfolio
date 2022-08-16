@@ -3,7 +3,7 @@
         Hi, I'm <strong>Rodrigo F.</strong>
     </h1>
     <p class="section__subtitle section__subtitle--intro">SOFTWARE ENGINEER</p>
-    <img src="../src/assets/imgs/photo.jpeg" alt="nice looking dude" />
+    <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/main/src/assets/imgs/photo.jpeg" alt="nice looking dude" />
 </section>
 
 <style>
