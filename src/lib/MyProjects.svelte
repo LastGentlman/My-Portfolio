@@ -9,27 +9,27 @@
         </a>
         
         <!-- Portfolio item 02 -->
-        <a href="project02" target="_blank" class="portfolio__item">
+        <a href="project02" target="_blank" class="portfolio__item" hidden>
             <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
         </a>
         
         <!-- Portfolio item 03 -->
-        <a href="project03" target="_blank" class="portfolio__item">
+        <a href="project03" target="_blank" class="portfolio__item" hidden>
             <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
         </a>
         
         <!-- Portfolio item 04 -->
-        <a href="project04" target="_blank" class="portfolio__item">
+        <a href="project04" target="_blank" class="portfolio__item" hidden>
             <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
         </a>
 
         <!-- Portfolio item 05 -->
-        <a href="project05" target="_blank" class="portfolio__item">
+        <a href="project05" target="_blank" class="portfolio__item" hidden>
             <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
         </a>
 
         <!-- Portfolio item 06 -->
-        <a href="project06" target="_blank" class="portfolio__item">
+        <a href="project06" target="_blank" class="portfolio__item" hidden>
             <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
         </a>
     </div>

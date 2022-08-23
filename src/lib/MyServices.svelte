@@ -5,17 +5,21 @@
 
         <div class="service">
             <h3>Design + Development</h3>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil, commodi cupiditate. Voluptates et mollitia omnis distinctio voluptatum repellendus possimus animi pariatur suscipit ut. Soluta doloribus fuga qui quidem aliquid magni.</p>
+            <p>With agile mindset, always keeping in mind the UX I can create the design of your web app with Figma,and responsive development with React.Js/Ts or Svelte, with Good practices and Agile methodologies
+            <br />
+            Multy-Plataform of your Web App trought PWA
+            <br />
+            Always learning and improving to offer a better service and be better than yesterday</p>
         </div>
         
         <div class="service">
-            <h3>E-Comerce</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias corrupti quia laudantium ipsa rerum quidem deleniti officiis, laboriosam quasi autem nisi! Deserunt mollitia quia voluptatem, accusantium temporibus fugiat. Consectetur, fuga.</p>
+            <h3>Testing</h3>
+            <p>Tests with Jest and Mocha, also can create automatic testing with Selenium </p>
         </div>
         
         <div class="service">
             <h3>Refactoring / Debugging</h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat hic possimus autem nulla quasi, id ex impedit natus sequi debitis quae officia nihil pariatur quo nesciunt cum quos libero culpa.</p>
+            <p>Use of Browser DevTools</p>
         </div>
     </div>
     

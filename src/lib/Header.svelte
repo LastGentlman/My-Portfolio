@@ -117,6 +117,7 @@
     height: 100%;
     flex-direction: column;
     justify-content: space-evenly;
+    list-style: none;
   }
 
   .nav__link {
