@@ -3,9 +3,9 @@
     <p class="section__subtitle">Selection of Projects</p>
     
     <div class="portfolio">
-        <!-- Portfolio item 01 -->
+        <!-- Portfolio My Weather Web App -->
         <a href="project01" target="_blank" class="portfolio__item">
-            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/main/src/assets/imgs/weatherPic.png" alt="" class="portfolio__img">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/main/src/assets/imgs/weatherPic.png" alt="My Weather Web App" class="portfolio__img">
         </a>
         
         <!-- Portfolio item 02 -->

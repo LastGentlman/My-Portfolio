@@ -15,12 +15,10 @@
         <div class="service">
             <h3>Testing</h3>
             <p>Tests with Jest and Mocha, also can create automatic testing with Selenium </p>
-        </div>
-        
-        <div class="service">
             <h3>Refactoring / Debugging</h3>
-            <p>Use of Browser DevTools</p>
+            <p>Use of Browser DevTools to detect the bug, research and in deep analisis of the code that is compromised</p>
         </div>
+
     </div>
     
     <a href="#projects" class="btn">See My Projects</a>

@@ -1,12 +1,12 @@
 <section class="about" id="about">
     <header>
         <h2 class="section__title section__title--about">Who I'am</h2>
-        <p class="section__subtitle section__subtitle--about">Software Engineer & Designer</p>
+        <p class="section__subtitle section__subtitle--about">Polyphasetic Software Engineer</p>
     </header>
 
     <div class="about-me__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit perferendis nemo, ipsum alias quibusdam fugiat totam, tempore in doloremque dolorem sit autem odit deleniti architecto temporibus excepturi aut voluptatibus odio.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit perferendis nemo, ipsum alias quibusdam fugiat totam, tempore in doloremque dolorem sit autem odit deleniti architecto temporibus excepturi aut voluptatibus odio.</p>
+        <p>Have you wonder how deep that simple question is? "Who I'am?", as a person i</p>
+        <p></p>
     </div>
     
     <!-- TODO: agregar foto de mi leyendole a la muchacha -->

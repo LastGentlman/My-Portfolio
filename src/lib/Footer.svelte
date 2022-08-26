@@ -3,27 +3,27 @@
 
     <ul class="social-list">
         <li class="social-list__item">
-            <a class="social-list__link" href="https://github.com/LastGentlman">
+            <a class="social-list__link" href="https://github.com/LastGentlman" alt="Github">
                 <i class="fa-brands fa-github"></i>
             </a>
         </li>
         <li class="social-list__item">
-            <a class="social-list__link" href="https://www.twitter.com/1ngRoy">
+            <a class="social-list__link" href="https://www.twitter.com/1ngRoy" alt="Twitter">
                 <i class="fa-brands fa-twitter"></i>
             </a>
         </li>
         <li class="social-list__item">
-            <a class="social-list__link" href="https://www.linkedin.com/in/IngRoy">
+            <a class="social-list__link" href="https://www.linkedin.com/in/IngRoy" alt="LinkedIn">
                 <i class="fa-brands fa-linkedin"></i>
             </a>
         </li>
         <li class="social-list__item">
-            <a class="social-list__link" href="https://www.instagram.com/1ngroy">
+            <a class="social-list__link" href="https://www.instagram.com/1ngroy" alt="Instagram">
                 <i class="fa-brands fa-instagram"></i>
             </a>
         </li>
         <li class="social-list__item">
-            <a class="social-list__link" href="https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA">
+            <a class="social-list__link" href="https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA" alt="YouTube">
                 <i class="fa-brands fa-youtube"></i>
             </a>
         </li>
@@ -52,6 +52,7 @@
         display: flex;
         justify-content:center;
         margin: 0.25em 0;
+        list-style: none;
     }
 
     .social-list__link {
