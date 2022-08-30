@@ -5,11 +5,10 @@
     </header>
 
     <div class="about-me__body">
-        <p>Have you wonder how deep that simple question is? "Who I'am?", as a person i</p>
-        <p></p>
+        <p>I Truly belive that its posible to develop a better world trough code, offcourse not only code is needed to make a positive impact on our planet, we need love in our hearths, because a person with love in its hearth wont commit acts that threaten the peace and health of other individuals</p>
+        <p><a href="https://www.16personalities.com/infj-personality">INFJ-A</a> as Result of the <a href="https://www.16personalities.com/free-personality-test">16 personality test</a></p>
     </div>
     
-    <!-- TODO: agregar foto de mi leyendole a la muchacha -->
     <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/main/src/assets/imgs/photo.jpeg" alt="nice looking engineer">
 </section>
 
