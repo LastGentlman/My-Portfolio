@@ -28,7 +28,7 @@
       navToggle.style.position = "absolute"
       hamBefore.style.transform = "rotate(0deg)"
       hamBefore.style.margin = "0 auto"
-      hamAfter.style.opacity = "100";
+      hamAfter.style.opacity = "100%";
       hamburger.style.backgroundColor = dark
       hamBefore.style.backgroundColor = dark
       hamAfter.style.backgroundColor = dark
@@ -47,35 +47,35 @@
       <span bind:this={hamBefore} class="ham-before"></span>
     </button>
     
-  <nav bind:this={nav}>
-    <ul class="nav__list">
-        <li class="nav__li">
-          <a on:click={toggle} href="/" class="nav__link">
-            Home
-          </a>
-        </li>
-        <li class="nav__li">
-          <a on:click={toggle} href="/#services" class="nav__link">
-            My Services
-          </a>
-        </li>
-        <li class="nav__li">
-          <a on:click={toggle} href="/#about" class="nav__link">
-            About me
-          </a>
-        </li>
-        <li class="nav__li">
-          <a on:click={toggle} href="https://ingroy.blogspot.com" target="_blank" class="nav__link">
-            My Blog
-          </a>
-        </li>
-        <li class="nav__li">
-          <a on:click={toggle} href="/#projects" class="nav__link">
-            My Projects
-          </a>
-        </li>
-    </ul>
-  </nav>
+    <nav bind:this={nav}>
+        <ul class="nav__list">
+            <li class="nav__li">
+                <a on:click={toggle} href="/" class="nav__link">
+                    Home
+                </a>
+            </li>
+            <li class="nav__li">
+                <a on:click={toggle} href="/#services" class="nav__link">
+                    My Services
+                </a>
+            </li>
+            <li class="nav__li">
+                <a on:click={toggle} href="/#about" class="nav__link">
+                    About me
+                </a>
+            </li>
+            <li class="nav__li">
+                <a on:click={toggle} href="https://ingroy.blogspot.com" target="_blank" class="nav__link">
+                    My Blog
+                </a>
+            </li>
+            <li class="nav__li">
+                <a on:click={toggle} href="/#projects" class="nav__link">
+                    My Projects
+                </a>
+            </li>
+        </ul>
+    </nav>
 </header>
 
 <style>
@@ -100,6 +100,7 @@
   nav {
     position: fixed;
     background: var(--clr-dark);
+    opacity: 93%;
     color: var(--clr-light);
     top: 0;
     bottom: 0;
@@ -129,9 +130,6 @@
   .nav__link:hover {
     color: var(--clr-label);
   }
-
-  /* Hamburger menu
-  // .nav-open esta en app.css */
   
   .nav-toggle {
     background: transparent;

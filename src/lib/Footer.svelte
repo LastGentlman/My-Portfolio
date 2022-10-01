@@ -1,5 +1,5 @@
 <footer>
-    <a href="mailto:IngGarciaRodrigoArt@gmail.com" class="footer__link">Hello@IngRoy.com</a>
+    <a href="mailto:info@ingroy.com" class="footer__link">Info@IngRoy.com</a>
 
     <ul class="social-list">
         <li class="social-list__item">
