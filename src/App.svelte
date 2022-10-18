@@ -7,12 +7,12 @@
   import About from './lib/About.svelte'
   import MyProjects from './lib/MyProjects.svelte'
   import Footer from './lib/Footer.svelte'
-  import Project01 from './views/project_01.svelte'
-  import Project02 from './views/project_02.svelte'
-  import Project03 from './views/project_03.svelte'
-  import Project04 from './views/project_04.svelte'
-  import Project05 from './views/project_05.svelte'
-  import Project06 from './views/project_06.svelte'
+  import Project01 from './views/weather.svelte'
+  import Project02 from './views/paint.svelte'
+  import Project03 from './views/meme.svelte'
+  import Project04 from './views/rpsgame.svelte'
+  import Project05 from './views/story.svelte'
+  import Project06 from './views/recipes.svelte'
 </script>
 
 <main>

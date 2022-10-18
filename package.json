@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "vite --port 3000",
-    "build": "vite build -single",
+    "build": "vite build --watch",
     "preview": "vite preview --port 8080"
   },
   "devDependencies": {
@@ -14,7 +14,6 @@
     "vite": "^3.0.0"
   },
   "dependencies": {
-    "@sveltejs/adapter-cloudflare": "^1.0.0-next.38",
     "normalize.css": "^8.0.1",
     "svelte-routing": "^1.6.0"
   }

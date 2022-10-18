@@ -3,34 +3,34 @@
     <p class="section__subtitle">Selection of Projects</p>
     
     <div class="portfolio">
-        <!-- Portfolio My Weather Web App -->
-        <a href="project01" target="_blank" class="portfolio__item">
+        <!-- My Weather Web App -->
+        <a href="weather" target="_blank" class="portfolio__item">
             <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/main/src/assets/imgs/weatherPic.png" alt="My Weather Web App" class="portfolio__img">
         </a>
         
-        <!-- Portfolio item 02 -->
-        <a href="project02" target="_blank" class="portfolio__item" hidden>
-            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
+        <!-- My Paint Board -->
+        <a href="paint" target="_blank" class="portfolio__item">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="My Paint Board" class="portfolio__img">
         </a>
         
-        <!-- Portfolio item 03 -->
-        <a href="project03" target="_blank" class="portfolio__item" hidden>
-            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
+        <!-- My Meme Generator -->
+        <a href="meme" target="_blank" class="portfolio__item">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="My Meme Generator" class="portfolio__img">
         </a>
         
-        <!-- Portfolio item 04 -->
-        <a href="project04" target="_blank" class="portfolio__item" hidden>
-            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
+        <!-- Rock Paper Scissors Game -->
+        <a href="rpsgame" target="_blank" class="portfolio__item">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="Rock, Paper & Scissors Game" class="portfolio__img">
         </a>
 
-        <!-- Portfolio item 05 -->
-        <a href="project05" target="_blank" class="portfolio__item" hidden>
-            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
+        <!-- My Recipes -->
+        <a href="../views/recipes" target="_blank" class="portfolio__item">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="My Recipes App" class="portfolio__img">
         </a>
 
-        <!-- Portfolio item 06 -->
-        <a href="project06" target="_blank" class="portfolio__item" hidden>
-            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="" class="portfolio__img">
+        <!-- My Brilliant Idea -->
+        <a href="story" target="_blank" class="portfolio__item">
+            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="My Brilliant Idea" class="portfolio__img">
         </a>
     </div>
 </section>

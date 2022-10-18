@@ -1,5 +1,7 @@
 <footer>
-    <a href="mailto:info@ingroy.com" class="footer__link">Info@IngRoy.com</a>
+    <a href="mailto:info@ingroy.com" class="footer__link">
+        Info@IngRoy.com
+    </a>
 
     <ul class="social-list">
         <li class="social-list__item">
@@ -35,7 +37,7 @@
         background: #111;
         color: var(--clr-label);
         text-align: center;
-        padding: 2.5em 0;
+        padding: 0;
         font-size: var(--fs-h3);
     }
 

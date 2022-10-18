@@ -4,13 +4,13 @@
 
     let props = {
         title: 'My',
-        titleBold: 'Portfolio Template',
-        subtitle: 'Portfolio Template with Svelte',
+        titleBold: 'Brilliant Idea',
+        subtitle: 'app like story book but for ideas',
         pic: '../src/assets/imgs/05.png' ,
-        p1: 'Project created with Svelte, movile first methodology',
+        p1: 'Project created with ',
         // picBody: '../' ,
         p2: '(What do i learn and how it went to do this project?)',
-        p3: 'You Are Wellcome to play the <a href="" >live demo</a> and take a look at the <a href="">repository</a>',
+        p3: 'You Are Wellcome to use it <a href="" >live demo</a> and take a look at the <a href="">repository</a>',
     }
 </script>
 
