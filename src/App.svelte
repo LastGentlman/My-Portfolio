@@ -8,7 +8,6 @@
   import MyProjects from './lib/MyProjects.svelte'
   import Footer from './lib/Footer.svelte'
   import Project01 from './views/weather.svelte'
-  import Project02 from './views/paint.svelte'
   import Project03 from './views/meme.svelte'
   import Project04 from './views/rpsgame.svelte'
   import Project05 from './views/story.svelte'
@@ -29,7 +28,6 @@
     </Route>
 
     <Route path="project01"><Project01 /></Route>
-    <Route path="project02"><Project02 /></Route>
     <Route path="project03"><Project03 /></Route>
     <Route path="project04"><Project04 /></Route>
     <Route path="project05"><Project05 /></Route>

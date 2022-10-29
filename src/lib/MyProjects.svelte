@@ -9,8 +9,8 @@
         </a>
         
         <!-- My Paint Board -->
-        <a href="paint" target="_blank" class="portfolio__item">
-            <img src="https://raw.githubusercontent.com/LastGentlman/My-Portfolio/template/src/assets/imgs/01.png" alt="My Paint Board" class="portfolio__img">
+        <a href="https://github.com/LastGentlman/ETCH-A-SKETCH" target="_blank" class="portfolio__item">
+            <img src={"../assets/imgs/paint.png"} alt="My Paint Board" class="portfolio__img">
         </a>
         
         <!-- My Meme Generator -->
