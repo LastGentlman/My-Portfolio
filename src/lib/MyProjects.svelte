@@ -10,7 +10,7 @@
         
         <!-- My Paint Board -->
         <a href="https://github.com/LastGentlman/ETCH-A-SKETCH" target="_blank" class="portfolio__item">
-            <img src={"../assets/imgs/paint.png"} alt="My Paint Board" class="portfolio__img">
+            <img src="https://github.com/LastGentlman/My-Portfolio/blob/main/src/assets/imgs/paint.png?raw=true" alt="My Paint Board" class="portfolio__img">
         </a>
         
         <!-- My Meme Generator -->
